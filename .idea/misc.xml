@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Development/Android_Projects/FoodOrderApp/app/src/main/res/drawable/text_boundary_background.xml" value="0.26875" />
+        <entry key="..\:/Android_Development/Android_Projects/FoodOrderApp/app/src/main/res/layout/activity_dashboard.xml" value="0.2526041666666667" />
+        <entry key="..\:/Android_Development/Android_Projects/FoodOrderApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.264" />
+        <entry key="..\:/Android_Development/Android_Projects/FoodOrderApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Android_Development/Android_Projects/FoodOrderApp/app/src/main/res/layout/activity_main.xml" value="0.2375" />
+        <entry key="..\:/Android_Development/Android_Projects/FoodOrderApp/app/src/main/res/layout/activity_register.xml" value="0.2526041666666667" />
+        <entry key="..\:/Android_Development/Android_Projects/FoodOrderApp/app/src/main/res/layout/toolbar.xml" value="0.2526041666666667" />
+        <entry key="..\:/Android_Development/Android_Projects/FoodOrderApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
