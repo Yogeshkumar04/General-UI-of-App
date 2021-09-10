@@ -28,21 +28,21 @@ Specifications:
 
     Welcome Page (Splash Page):
     
-              ![Splash Page](https://user-images.githubusercontent.com/71341814/132813570-bccb56a8-c1c1-4065-8f8e-74faa03a6200.png)
+   ![Splash Page](https://user-images.githubusercontent.com/71341814/132813570-bccb56a8-c1c1-4065-8f8e-74faa03a6200.png)
             
     
     Login Page : 
     
-              ![Login Page](https://user-images.githubusercontent.com/71341814/132813874-c81f5563-4cd2-40a0-b211-f91925717705.png)
+   ![Login Page](https://user-images.githubusercontent.com/71341814/132813874-c81f5563-4cd2-40a0-b211-f91925717705.png)
               
               
     Registration Page : 
     
-             ![Register Page](https://user-images.githubusercontent.com/71341814/132814181-e91b4683-4f66-4b54-8835-b9ee97cbd34f.png)
+   ![Register Page](https://user-images.githubusercontent.com/71341814/132814181-e91b4683-4f66-4b54-8835-b9ee97cbd34f.png)
             
     Forgot Password Page : 
     
-              ![Forgor Password Page](https://user-images.githubusercontent.com/71341814/132814354-6a09f1cb-d6f2-450d-890f-b17fe15d8270.png)
+   ![Forgor Password Page](https://user-images.githubusercontent.com/71341814/132814354-6a09f1cb-d6f2-450d-890f-b17fe15d8270.png)
               
               
     Dashboard Page : 
